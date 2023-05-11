@@ -1,0 +1,45 @@
+D:\FIT\ICS\project\Common.Tests\bin\Debug\net7.0\IcsProj.Common.Tests.deps.json
+D:\FIT\ICS\project\Common.Tests\bin\Debug\net7.0\IcsProj.Common.Tests.dll
+D:\FIT\ICS\project\Common.Tests\bin\Debug\net7.0\IcsProj.Common.Tests.pdb
+D:\FIT\ICS\project\Common.Tests\bin\Debug\net7.0\IcsProj.DAL.dll
+D:\FIT\ICS\project\Common.Tests\bin\Debug\net7.0\IcsProj.DAL.pdb
+D:\FIT\ICS\project\Common.Tests\obj\Debug\net7.0\IcsProj.Common.Tests.csproj.AssemblyReference.cache
+D:\FIT\ICS\project\Common.Tests\obj\Debug\net7.0\IcsProj.Common.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\FIT\ICS\project\Common.Tests\obj\Debug\net7.0\IcsProj.Common.Tests.AssemblyInfoInputs.cache
+D:\FIT\ICS\project\Common.Tests\obj\Debug\net7.0\IcsProj.Common.Tests.AssemblyInfo.cs
+D:\FIT\ICS\project\Common.Tests\obj\Debug\net7.0\IcsProj.Common.Tests.csproj.CoreCompileInputs.cache
+D:\FIT\ICS\project\Common.Tests\obj\Debug\net7.0\IcsProj.Common.Tests.csproj.CopyComplete
+D:\FIT\ICS\project\Common.Tests\obj\Debug\net7.0\IcsProj.Common.Tests.dll
+D:\FIT\ICS\project\Common.Tests\obj\Debug\net7.0\refint\IcsProj.Common.Tests.dll
+D:\FIT\ICS\project\Common.Tests\obj\Debug\net7.0\IcsProj.Common.Tests.pdb
+D:\FIT\ICS\project\Common.Tests\obj\Debug\net7.0\ref\IcsProj.Common.Tests.dll
+D:\FIT\ICS\project - Copy\Common.Tests\bin\Debug\net7.0\IcsProj.Common.Tests.deps.json
+D:\FIT\ICS\project - Copy\Common.Tests\bin\Debug\net7.0\IcsProj.Common.Tests.dll
+D:\FIT\ICS\project - Copy\Common.Tests\bin\Debug\net7.0\IcsProj.Common.Tests.pdb
+D:\FIT\ICS\project - Copy\Common.Tests\bin\Debug\net7.0\IcsProj.DAL.dll
+D:\FIT\ICS\project - Copy\Common.Tests\bin\Debug\net7.0\IcsProj.DAL.pdb
+D:\FIT\ICS\project - Copy\Common.Tests\obj\Debug\net7.0\IcsProj.Common.Tests.csproj.AssemblyReference.cache
+D:\FIT\ICS\project - Copy\Common.Tests\obj\Debug\net7.0\IcsProj.Common.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\FIT\ICS\project - Copy\Common.Tests\obj\Debug\net7.0\IcsProj.Common.Tests.AssemblyInfoInputs.cache
+D:\FIT\ICS\project - Copy\Common.Tests\obj\Debug\net7.0\IcsProj.Common.Tests.AssemblyInfo.cs
+D:\FIT\ICS\project - Copy\Common.Tests\obj\Debug\net7.0\IcsProj.Common.Tests.csproj.CoreCompileInputs.cache
+D:\FIT\ICS\project - Copy\Common.Tests\obj\Debug\net7.0\IcsProj.Common.Tests.csproj.CopyComplete
+D:\FIT\ICS\project - Copy\Common.Tests\obj\Debug\net7.0\IcsProj.Common.Tests.dll
+D:\FIT\ICS\project - Copy\Common.Tests\obj\Debug\net7.0\refint\IcsProj.Common.Tests.dll
+D:\FIT\ICS\project - Copy\Common.Tests\obj\Debug\net7.0\IcsProj.Common.Tests.pdb
+D:\FIT\ICS\project - Copy\Common.Tests\obj\Debug\net7.0\ref\IcsProj.Common.Tests.dll
+D:\FIT\ICS\ICS-proj\Common.Tests\bin\Debug\net7.0\IcsProj.Common.Tests.deps.json
+D:\FIT\ICS\ICS-proj\Common.Tests\bin\Debug\net7.0\IcsProj.Common.Tests.dll
+D:\FIT\ICS\ICS-proj\Common.Tests\bin\Debug\net7.0\IcsProj.Common.Tests.pdb
+D:\FIT\ICS\ICS-proj\Common.Tests\bin\Debug\net7.0\IcsProj.DAL.dll
+D:\FIT\ICS\ICS-proj\Common.Tests\bin\Debug\net7.0\IcsProj.DAL.pdb
+D:\FIT\ICS\ICS-proj\Common.Tests\obj\Debug\net7.0\IcsProj.Common.Tests.csproj.AssemblyReference.cache
+D:\FIT\ICS\ICS-proj\Common.Tests\obj\Debug\net7.0\IcsProj.Common.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\FIT\ICS\ICS-proj\Common.Tests\obj\Debug\net7.0\IcsProj.Common.Tests.AssemblyInfoInputs.cache
+D:\FIT\ICS\ICS-proj\Common.Tests\obj\Debug\net7.0\IcsProj.Common.Tests.AssemblyInfo.cs
+D:\FIT\ICS\ICS-proj\Common.Tests\obj\Debug\net7.0\IcsProj.Common.Tests.csproj.CoreCompileInputs.cache
+D:\FIT\ICS\ICS-proj\Common.Tests\obj\Debug\net7.0\IcsProj.Common.Tests.csproj.CopyComplete
+D:\FIT\ICS\ICS-proj\Common.Tests\obj\Debug\net7.0\IcsProj.Common.Tests.dll
+D:\FIT\ICS\ICS-proj\Common.Tests\obj\Debug\net7.0\refint\IcsProj.Common.Tests.dll
+D:\FIT\ICS\ICS-proj\Common.Tests\obj\Debug\net7.0\IcsProj.Common.Tests.pdb
+D:\FIT\ICS\ICS-proj\Common.Tests\obj\Debug\net7.0\ref\IcsProj.Common.Tests.dll
